@@ -1155,6 +1155,15 @@ video {
 .w-unit-8 {
   width: var(--nextui-spacing-unit-8);
 }
+.w-\[522px\] {
+  width: 522px;
+}
+.w-\[100\] {
+  width: 100;
+}
+.w-\[100\%\] {
+  width: 100%;
+}
 .min-w-10 {
   min-width: 2.5rem;
 }

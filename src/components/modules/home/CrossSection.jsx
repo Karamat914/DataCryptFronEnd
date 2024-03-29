@@ -13,7 +13,7 @@ const CrossSection = () => {
             } gap-16 ${index > 0 ? "mt-28" : ""}`}
             key={index}
           >
-            <div className="relative min-w-[522px] h-[522px]">
+            <div className="relative w-[100%]">
               <NextImage
                 src={items.image}
                 alt={items.title}
